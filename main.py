@@ -40,4 +40,3 @@ mybutton = tb.Button(root, text="Click Me",
                      bootstyle="success,outline", command=changer)
 mybutton.pack(pady=10)
 root.mainloop()
-¦
